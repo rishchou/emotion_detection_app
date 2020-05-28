@@ -19,11 +19,11 @@ TFLITE functionality for the current code needs to be added.
 
 
 
-##Dependencies:
+## Dependencies:
 
 Android studio (Other dependencies will be automatically downloaded through gradle when you load project in the Android studio).
 
-#3 Current isssues:
+## Current isssues:
 
 - Interfacing WebRTC with deep learning module.
 
