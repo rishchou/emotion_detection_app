@@ -17,10 +17,13 @@ pb model is stored in src/java/assets folder of FaceEMR app.
 
 TFLITE functionality for the current code needs to be added.
 
-The previous code which uses tflite is also attached as folder named tf_lite_android. This code is giving the errors I mentioned earlier in the email. The 
 
-Dependencies:
+
+##Dependencies:
 
 Android studio (Other dependencies will be automatically downloaded through gradle when you load project in the Android studio).
 
+#3 Current isssues:
+
+- Interfacing WebRTC with deep learning module.
 
